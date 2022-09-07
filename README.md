@@ -1,2 +1,2 @@
 # CoreWithReact
- Intro to ASP.NET Core with React.js
+ASP.NET Core with React.js
